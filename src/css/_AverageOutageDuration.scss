@@ -1,0 +1,13 @@
+.AverageOutageDuration
+{
+    grid-area: span 1 / span 2;
+
+    .NumberWidget
+    {
+        font-size: .65em;
+    }
+}
+.AverageOutageDuration__title
+{
+    text-align: center;
+}

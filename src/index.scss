@@ -1,0 +1,18 @@
+@import "../common/scss-lib/framework/variables";
+@import "./src/css/variables";
+@import "../common/scss-lib/framework/mixins";
+@import "../common/scss-lib/framework/framework";
+
+@import "./css/App";
+@import "./css/DashboardWidget";
+@import "./css/NumberWidget";
+@import "./css/TotalDisconnections";
+@import "./css/Duration";
+@import "./css/AverageDisconnectionsPerDay";
+@import "./css/AverageOutageDuration";
+
+body
+{
+    background: #efefef;
+    font-family: Roboto, Helvetica;
+}

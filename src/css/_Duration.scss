@@ -1,0 +1,20 @@
+.Duration
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Duration__label
+{
+    font-size: .25em;
+    opacity: .35;
+}
+.Duration > *
+{
+    margin: 0 .1em;
+}
+.Duration__time
+{
+    min-width: 1.7ch;
+    text-align: right;
+}

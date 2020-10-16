@@ -1,0 +1,10 @@
+.App__widgets {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-auto-rows: auto;
+  gap: 1vw 1vh;
+}
+.App
+{
+  padding: 2em;
+}
