@@ -2,9 +2,8 @@
 
 You'll need 2 consoles- one to run the logger, one to start the React server (if you wanna look at various charts of your uptime stats)
 
-1. run `npm init` to install all dependencies
-3. in a separate console window run `node logger -s`
-2. run `npm start` to start the React Dashboard server at `localhost:3000`
+1. in a separate console window run `node logger -s`
+1. run `npm start` to start the React Dashboard server at `localhost:3000`
 
 
 ## Other things
